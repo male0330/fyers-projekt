@@ -1,4 +1,2 @@
-document.getElementById('myButton').addEventListener('click', function() {
-    alert('Button wurde geklickt!');
-});
+console.log("JavaScript läuft!");
 
